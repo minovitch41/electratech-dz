@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.logo {
+    width: 8%;
+    height: 8%;
+}
+
+.Copy {
+    color: wheat;
+    text-align: center;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+
+}
+
+.nav-link.active.text-light {
+    color: orange;
+  }
+  
+  .admin_image {
+    width: 100px;
+    object-fit: contain;
+  }
+  
+
+
+
+
+
+
